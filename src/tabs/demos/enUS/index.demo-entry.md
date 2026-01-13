@@ -42,8 +42,8 @@ placement.vue
 | size | `'small' \| 'medium' \| 'large'` | `'medium'` | Size of tabs. |  |
 | pane-class | `string` | `undefined` | Class of the pane. |  |
 | pane-style | `string \| object` | `undefined` | Style of the pane. |  |
-| pane-wrapper-class | `string` | `undefined` | Class of the pane warpper. | 2.34.4 |
-| pane-wrapper-style | `string \| object` | `undefined` | Style of the pane warpper. | 2.34.4 |
+| pane-wrapper-class | `string` | `undefined` | Class of the pane wrapper. | 2.34.4 |
+| pane-wrapper-style | `string \| object` | `undefined` | Style of the pane wrapper. | 2.34.4 |
 | placement | `'left' \| 'right' \| 'top' \| 'bottom'` | `'top'` | Placement of tabs. It won't work with `n-tabs` whose `type` is `'segment'`. | 2.34.4 |
 | tab-class | `string` | `undefined` | Class of the tab. | 2.37.0 |
 | tab-style | `string \| object` | `undefined` | Style of the tab. |  |
